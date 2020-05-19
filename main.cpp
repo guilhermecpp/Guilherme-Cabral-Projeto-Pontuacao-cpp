@@ -52,7 +52,7 @@ int main()
     }
 
     cout << "Score de volume de compras = " << score_volume_de_compras << " pontos" << endl;
-
+    cout << endl;
 
     return 0;
 }
